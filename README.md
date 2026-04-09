@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A9396,50:0DB4B9,100:94D2BD&height=200&section=header&text=Francis%20Adeboye&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A9396,50:0DB4B9,100:94D2BD&height=200&section=header&text=%20&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
