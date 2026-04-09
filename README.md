@@ -37,6 +37,14 @@
 
 ---
 
+## 🧠 Most Used Programming Language
+
+<p align="center">
+  <img src="https://github-language-stats.vercel.app/api?username=adeboyefrancis&theme=custom&bgColor=0A9396&titleColor=94D2BD&textColor=ffffff&borderColor=0DB4B9&iconColor=94D2BD" height="300" />
+</p>
+
+---
+
 ## 📫 Connect With Me  
 - 🌐 [Website](https://touchedbyfrancis.cloud/)  
 
