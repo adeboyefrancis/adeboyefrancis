@@ -22,10 +22,10 @@
 ## ⚡ Tech Stack  
 
 #### ☁️ Cloud & Infrastructure  
-<img src="https://skillicons.dev/icons?i=azure,aws,terraform,docker,kubernetes,linux" />
+<img src="https://skillicons.dev/icons?i=azure,aws,terraform,docker,kubernetes,linux,windows" />
 
 #### 🔧 Automation & DevOps  
-<img src="https://skillicons.dev/icons?i=githubactions,jenkins,ansible,python,bash" />
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins,ansible,python,bash,git,powershell" />
 
 ---
 
