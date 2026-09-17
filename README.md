@@ -37,13 +37,12 @@
 
 ---
 
-## 🧠 Most Used Programming Language
+## 🧠 Frequently Used Language / Commit Summary
 
 <p align="center">
-  <img src="https://github-language-stats.vercel.app/api?username=adeboyefrancis&theme=custom&bgColor=0A9396&titleColor=94D2BD&textColor=ffffff&borderColor=0DB4B9&iconColor=94D2BD" height="300" />
+  <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=adeboyefrancis&layout=compact&count_private=true&bg_color=0D1117&title_color=00A8E8&text_color=F1E05A&border_color=161B22&icon_color=00A8E8" alt="Top Languages" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adeboyefrancis&theme=custom&bg_color=0D1117&title_color=00A8E8&text_color=F1E05A" alt="Most Commit Language" height="165" />
 </p>
-
----
 
 ## 📫 Connect With Me  
 - 🌐 [Website](https://touchedbyfrancis.cloud/)  
